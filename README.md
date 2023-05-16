@@ -108,5 +108,5 @@ When installing choose only the package "Deployment Tools".
 The installation is available in "C:\Program Files (x86)\Windows Kits\10\Assessment and Deployment Kit\Deployment Tools" directory.
 
 ```
-PS > oscdimg -m -o -u2 -udfver102 -bootdata:2#p0,e,b"C:\Temp\Windows 10\Image\Win10_22H2_English_x64\boot\etfsboot.com"#pEF,e,b"C:\Temp\Windows 10\Image\Win10_22H2_English_x64\efi\microsoft\boot\efisys.bin" "C:\Temp\Windows 10\Image\Win10_22H2_English_x64" "C:\Temp\Windows 10\ISO\Win10_22H2_19045.2965_English_x64.iso"
+PS > oscdimg -lCCCOMA_X64FRE_EN-US_DV9 -m -o -u2 -udfver102 -bootdata:2#p0,e,b"C:\Temp\Windows 10\Image\Win10_22H2_English_x64\boot\etfsboot.com"#pEF,e,b"C:\Temp\Windows 10\Image\Win10_22H2_English_x64\efi\microsoft\boot\efisys.bin" "C:\Temp\Windows 10\Image\Win10_22H2_English_x64" "C:\Temp\Windows 10\ISO\Win10_22H2_19045.2965_English_x64.iso"
 ```
