@@ -1,5 +1,5 @@
 # Windows-10-Image-Update
-Documentation about integrating and updating Windows 10 ISO
+Documentation about integrating and updating Windows 10 ISO (Windows 10 x64 Pro SKU)
 
 ### References:
 [Servicing The Image](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/servicing-the-image-with-windows-updates-sxs?view=windows-10)
